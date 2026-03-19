@@ -15,3 +15,7 @@ This project analyzes e-commerce sales data using Snowflake SQL.
 
 ## Project Files
 - project_queries.sql
+
+- ## Snowflake Execution
+
+![Snowflake Screenshot](snowflake_output.png)

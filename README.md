@@ -1,4 +1,4 @@
- End-to-End Sales Analytics using Snowflake and SQL
+# End-to-End Sales Analytics using Snowflake and SQL
 
 ## Project Overview
 This project analyzes e-commerce sales data using Snowflake SQL.
